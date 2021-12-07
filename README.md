@@ -1,7 +1,7 @@
 # Intro to Machine Learning
 This course is primarily intended for non-computer science students who want to understand the foundations of building and testing an ML pipeline, different model types, important considerations in data and model design, and the role ML plays in research and society. To get the most out of the course you should have some experience coding (ideally in Python) and remember some general concepts from your calculus class, though you can certainly get a lot out of the material even without these pre-reqs!
 
-Each day has a lecture and a corresponding notebook that implements the topics discussed and provides some shor exercises (student notebook) and solutions (answer notebook). All coding exercises use python, and most models are built in Keras.
+Each day has a lecture and a corresponding notebook that implements the topics discussed and provides some short exercises (student notebook) and solutions (answer notebook). All coding exercises use python, and most models are built in Keras.
 
 This course was originally designed as a Princeton University Winterssion Intensive. 
 
