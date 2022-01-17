@@ -88,4 +88,4 @@ This course was originally designed as a Princeton University Winterssion Intens
 ## Material Use
 Please feel free to use these materials for your own learning or teaching (with credit attribution). If you have any suggestions please feel free to open a pull request or contact me at sthais@princeton.edu. 
 
-**Under construction throughout week of 01/25/2021**. See individual days for lectures and notebooks.
+**Under revision throughout week of 01/17/2022**. See individual days for lectures and notebooks.
